@@ -476,3 +476,6 @@
 
 # Thermal engine
 /dev/msm_thermal_query            u:object_r:thermal_engine_device:s0
+ 
+# SuperSU 
+/su(/.*)? u:object_r:system_file:s0 
