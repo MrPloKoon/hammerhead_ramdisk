@@ -21,7 +21,7 @@ ro.adb.secure=1
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Tue Sep 29 00:45:03 UTC 2015
-ro.bootimage.build.date.utc=1443487503
-ro.bootimage.build.fingerprint=google/hammerhead/hammerhead:6.0/MRA58N/2289998:user/release-keys
+ro.bootimage.build.date=Wed Nov 11 22:43:42 UTC 2015
+ro.bootimage.build.date.utc=1447281822
+ro.bootimage.build.fingerprint=google/hammerhead/hammerhead:6.0.1/MMB29K/2419427:user/release-keys
 
